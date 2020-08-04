@@ -1,0 +1,4 @@
+//LOGIN & LOG OUT AUTHCONFIGURATION
+
+id:max
+mdp:geheim
